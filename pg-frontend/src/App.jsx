@@ -28,7 +28,7 @@ import MyBookings from './pages/MyBooking';
 
 // Owner pages
 import OwnerDashboard from './pages/owner/OwnerDashboard';
-import AddPG from './pages/owner/AddPG';
+import AddPg from './pages/owner/AddPg';
 import MyPGs from './pages/owner/MyPGs';
 
 // Admin pages

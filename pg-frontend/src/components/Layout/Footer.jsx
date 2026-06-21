@@ -16,10 +16,10 @@ const Footer = () => {
   ];
 
   const socialLinks = [
-    { icon: ExternalLink, href: 'https://github.com/codewithdhruba01' },
-    { icon: Link2, href: 'https://x.com/codewithdhruba' },
-    { icon: MessageSquare, href: 'https://www.instagram.com/dhrubaraj_pati/#' },
-    { icon: User, href: 'https://www.linkedin.com/in/dhrubaraj-pati/' }
+    { icon: ExternalLink, href: '' },
+    { icon: Link2, href: '' },
+    { icon: MessageSquare, href: '' },
+    { icon: User, href: '' }
   ];
 
   return (
@@ -122,7 +122,7 @@ const Footer = () => {
               <div className="flex items-center gap-2">
                 <MapPin className="w-4 h-4 text-gray-500" />
                 <span className={darkMode ? 'text-gray-400' : 'text-gray-600'}>
-                  Kolkata, India
+                  pune, India
                 </span>
               </div>
 
@@ -139,7 +139,7 @@ const Footer = () => {
           <p className={`text-sm ${
             darkMode ? 'text-gray-400' : 'text-gray-600'
           }`}>
-            © 2024 ComfortPG. All rights reserved.
+            © 2026 ComfortPG. All rights reserved.
           </p>
 
           <div className="flex gap-4 text-sm">

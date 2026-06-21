@@ -115,7 +115,7 @@ const Contact = () => {
                     Address
                   </h3>
                   <p className={darkMode ? "text-gray-300" : "text-gray-600"}>
-                    Elliot Road, Park Street, Kolkata
+                    pune, India
                   </p>
                 </div>
               </div>
